@@ -1,4 +1,0 @@
-PCS
-===
-
-Python Code Snippets
